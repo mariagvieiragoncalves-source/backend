@@ -1,0 +1,30 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "gdnzg",
+      "email": "nn@gmail.com",
+      "curso": "Engenharia de software"
+    },
+    {
+      "id": 2,
+      "nome": "fbgghn",
+      "email": "converavanessa@gmail.com",
+      "curso": "Análise de Sistemas"
+    },
+    {
+      "id": 3,
+      "nome": "76477",
+      "email": "conversavanessa@gmail.com",
+      "curso": "Análise de Sistemas",
+      "cpf": "675476674"
+    },
+    {
+      "id": 4,
+      "nome": "vinicius",
+      "email": "conversavanessa@gmail.com",
+      "curso": "Análise de Sistemas",
+      "cpf": "125441t3r68"
+    }
+  ]
+}
